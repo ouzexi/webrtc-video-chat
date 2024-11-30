@@ -48,8 +48,8 @@
 
 #### 发起通话
 
-![发起通话](doc\1.png)
+![发起通话](https://github.com/ouzexi/webrtc-video-chat/blob/main/doc/1.png)
 
 #### 通话成功
 
-![通话成功](doc\2.png)
+![通话成功](https://github.com/ouzexi/webrtc-video-chat/blob/main/doc/2.png)
