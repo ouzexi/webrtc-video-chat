@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: webrtc-video-chat-backend
+server:
+  port: 8080
+  servlet:
+    context-path: /demo
+ws:
+  server:
+    port: 8081
+    host: localhost
